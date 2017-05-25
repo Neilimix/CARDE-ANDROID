@@ -1,4 +1,4 @@
-package com.carde.v1.carde;
+package com.carde.app.carde_android;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.carde.v1.carde", appContext.getPackageName());
+        assertEquals("com.carde.app.carde_android", appContext.getPackageName());
     }
 }

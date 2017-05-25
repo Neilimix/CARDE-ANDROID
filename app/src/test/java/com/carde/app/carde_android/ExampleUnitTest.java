@@ -1,4 +1,4 @@
-package com.carde.v1.carde;
+package com.carde.app.carde_android;
 
 import org.junit.Test;
 
