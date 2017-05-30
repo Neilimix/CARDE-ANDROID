@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "462020442039",
+    "project_id": "carde-169116"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462020442039:android:ccf7831a99a26d7e",
+        "android_client_info": {
+          "package_name": "com.carde.app.carde_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462020442039-p3a2nkd8gg14pse3ugdcluts640695nj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "462020442039-p09j5u5dqbbi0b89d2sfrm60sfuehvs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carde.app.carde_android",
+            "certificate_hash": "2923c81885f1ea1271f6d8e607d784a489913d0a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATwT2WYkHtrlvgYDpRAI1B5BPL3_StBSI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
