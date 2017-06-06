@@ -1,4 +1,4 @@
-package com.carde.app.carde_android;
+package com.carde.discovereat;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

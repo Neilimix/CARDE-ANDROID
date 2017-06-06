@@ -1,4 +1,4 @@
-package com.carde.app.carde_android;
+package com.carde.discovereat;
 
 /**
  * Created by user on 06/06/2017.

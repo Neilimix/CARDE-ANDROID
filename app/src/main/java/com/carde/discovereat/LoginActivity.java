@@ -1,4 +1,4 @@
-package com.carde.app.carde_android;
+package com.carde.discovereat;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

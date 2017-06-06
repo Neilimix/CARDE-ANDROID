@@ -1,4 +1,4 @@
-package com.carde.app.carde_android;
+package com.carde.discovereat;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

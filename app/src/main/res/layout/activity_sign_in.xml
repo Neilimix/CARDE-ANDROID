@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.carde.app.carde_android.SignInActivity"
+    tools:context="com.carde.discovereat.SignInActivity"
     android:background="@drawable/main_header_selector">
 
 </android.support.constraint.ConstraintLayout>

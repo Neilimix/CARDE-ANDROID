@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.carde.app.carde_android.Intro">
+    tools:context="com.carde.discovereat.Intro">
 
     <Button
         android:id="@+id/skip_intro"
